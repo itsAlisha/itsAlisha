@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alisha
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web development and enhancing my skills in Data Structures
+- 🌱 I’m currently learning Full Stack Web development and enhancing my skills in Data Structures
 - 💞️ I’m looking to collaborate on a project related to web development
 - 📫 mail me at : bhagatalisha1@gmail.com
 
