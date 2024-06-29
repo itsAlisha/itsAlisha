@@ -1,7 +1,5 @@
 # Hi there, I'm Alisha! 👋
 
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-blue)
-
 ![Hello GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
