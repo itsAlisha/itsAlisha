@@ -15,9 +15,8 @@
 - 📫 How to reach me **bhagatalisha1@gmail.com**
 
 <h3 align="center">GitHub Stats : </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsalisha&show_icons=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsalisha&show_icons=true)
+
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
 
