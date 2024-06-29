@@ -4,10 +4,10 @@
 
 I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
 
-👀 My Interests: Machine Learning (ML) and Blockchain Technologies
-🌱 Current Learning Path: MERN Stack development and advanced Data Structures
-💞️ Seeking Collaboration: Exciting projects in Web Development
-📫 Contact Me: bhagatalisha1@gmail.com
+- 👀 **My Interests:** Machine Learning (ML) and Blockchain Technologies
+- 🌱 **Current Learning Path:** MERN Stack development and advanced Data Structures
+- 💞️ **Seeking Collaboration:** Exciting projects in Web Development
+- 📫 **Contact Me:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
