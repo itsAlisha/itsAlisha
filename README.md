@@ -9,7 +9,9 @@ I'm an enthusiastic and dedicated programmer with a strong passion for Machine L
 - 💞️ **Seeking Collaboration:** Exciting projects in Web Development
 - 📫 **Contact Me:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/ZG718uJ5i4vN0qh3Zl/giphy.gif)
+![Tech GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![Developer GIF](https://media.giphy.com/media/3ov9jX4x4PtBhjDArS/giphy.gif)
 
 ## 🛠️ Technologies & Tools
 
