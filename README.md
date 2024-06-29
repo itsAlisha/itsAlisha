@@ -2,16 +2,14 @@
 
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-blue)
 
+![Hello GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+
 I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
 
 - 👀 **My Interests:** Machine Learning (ML) and Blockchain Technologies
 - 🌱 **Current Learning Path:** MERN Stack development and advanced Data Structures
 - 💞️ **Seeking Collaboration:** Exciting projects in Web Development
 - 📫 **Contact Me:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
-
-![Coding GIF](https://media.giphy.com/media/ZG718uJ5i4vN0qh3Zl/giphy.gif)
-![Tech GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-![Developer GIF](https://media.giphy.com/media/3ov9jX4x4PtBhjDArS/giphy.gif)
 
 ## 🛠️ Technologies & Tools
 
