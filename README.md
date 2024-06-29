@@ -14,9 +14,14 @@
 <br>
 <h3 align="center"> 📊 GitHub Stats :</h3>
 <br>
-        
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&theme=default&show_icons=true&hide_border=true&layout=compact" alt="itsAlisha's Top Languages" />
+</p>
+
+<br>
+
 ![itsAlisha's Stats](https://github-readme-stats.vercel.app/api?username=itsAlisha&theme=default&show_icons=true&hide_border=true&count_private=true)
-![itsAlisha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![itsAlisha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true)
 
 <br>
