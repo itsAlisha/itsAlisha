@@ -10,19 +10,11 @@
     <h3>👩‍💻 All of my projects are available at : <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></h3>
     <h3>💬 Ask me about <strong>React, Solidity and Cpp</h3>
     <h3>📫 How to reach me : <a href="bhagatalisha1@gmail.com">bhagatalisha1@gmail.com</a></h3>
-
 </div>
 <br>
-<h3 align="center"> 📊 GitHub Stats : </h3>
-<br><div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: left;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
-</div>
-
+        
+![itsAlisha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true)
+![itsAlisha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true)
 <br>
 <h3 align="center"> 👩‍💻Languages and Tools :</h3>
 <br>
