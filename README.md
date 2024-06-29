@@ -1,6 +1,6 @@
 # Hi there, I'm Alisha! 👋
 
-![Hello GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
 
@@ -15,21 +15,21 @@ I'm an enthusiastic and dedicated programmer with a strong passion for Machine L
 
 ## 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F4A460?logo=hardhat&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![React](https://simpleicons.org/icons/react.svg)
+![Node.js](https://simpleicons.org/icons/node-dot-js.svg)
+![MongoDB](https://simpleicons.org/icons/mongodb.svg)
+![Express.js](https://simpleicons.org/icons/express.svg)
+![HTML5](https://simpleicons.org/icons/html5.svg)
+![CSS3](https://simpleicons.org/icons/css3.svg)
+![JavaScript](https://simpleicons.org/icons/javascript.svg)
+![Solidity](https://simpleicons.org/icons/solidity.svg)
+![Hardhat](https://simpleicons.org/icons/hardhat.svg)
+![MySQL](https://simpleicons.org/icons/mysql.svg)
+![R](https://simpleicons.org/icons/r.svg)
+![C++](https://simpleicons.org/icons/cplusplus.svg)
+![Python](https://simpleicons.org/icons/python.svg)
+![Java](https://simpleicons.org/icons/java.svg)
+![C](https://simpleicons.org/icons/c.svg)
 
 ---
 
