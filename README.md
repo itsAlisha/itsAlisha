@@ -5,11 +5,11 @@
 ![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <br>
 <div align="center">
-    <li><h3>🌱 I’m currently learning <strong>Machine Learning and Exploring Blockchain </h3></li>
-    <li><h3>👯 I’m looking to collaborate on <strong>Web Development Projects</h3></li>
-    <li><h3>👩‍💻 All of my projects are available at : <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></h3></li>
-    <li><h3>💬 Ask me about <strong>React, Solidity and Cpp</h3></li>
-    <li><h3>📫 How to reach me : <a href="bhagatalisha1@gmail.com">bhagatalisha1@gmail.com</a></h3></li>
+    <h3>🌱 I’m currently learning <strong>Machine Learning and Exploring Blockchain</h3>
+    <h3>👯 I’m looking to collaborate on <strong>Web Development Projects</h3>
+    <h3>👩‍💻 All of my projects are available at : <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></h3>
+    <h3>💬 Ask me about <strong>React, Solidity and Cpp</h3>
+    <h3>📫 How to reach me : <a href="bhagatalisha1@gmail.com">bhagatalisha1@gmail.com</a></h3>
 
 </div>
 <br>
