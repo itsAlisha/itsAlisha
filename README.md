@@ -3,17 +3,17 @@
 <h3 align="center">My keen interest is in </h3>
 
 ![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
+<br>
 <div align="center">
-  <ul style="list-style-type: disc;">
-    <li>🌱 I’m currently learning <strong>Machine Learning and Exploring Blockchain</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Web Development Projects</strong></li>
-    <li>👩‍💻 All of my projects are available at <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></li>
-    <li>💬 Ask me about <strong>React, Solidity and Cpp</strong></li>
-    <li>📫 How to reach me <strong>bhagatalisha1@gmail.com</strong></li>
+  <ul type="disc">
+    <li><h3>🌱 I’m currently learning <strong>Machine Learning and Exploring Blockchain </h3></li>
+    <li><h3>👯 I’m looking to collaborate on <strong>Web Development Projects</h3></li>
+    <li><h3>👩‍💻 All of my projects are available at <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></h3></li>
+    <li><h3>💬 Ask me about <strong>React, Solidity and Cpp</h3></li>
+    <li><h3>📫 How to reach me <strong>bhagatalisha1@gmail.com</h3>li>
   </ul>
 </div>
-
+<br>
 <h3 align="center"> 📊 GitHub Stats : </h3>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
