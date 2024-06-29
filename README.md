@@ -1,47 +1,24 @@
-# Hi there, I'm Alisha! 👋
+<h1 align="center">Hi 👋, I'm Alisha</h1>
+<h3 align="center">A passionate Web developer and Blockchain enthusiast</h3>
 
-![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+- 🌱 I’m currently learning **Machine Learning and Exploring Blockchain**
 
-I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+- 👨‍💻 All of my projects are available at [https://itsalisha.github.io/Portfolio/](https://itsalisha.github.io/Portfolio/)
 
-- 👀 **My Interests:** Machine Learning (ML) and Blockchain Technologies
-- 🌱 **Current Learning Path:** MERN Stack development and advanced Data Structures
-- 💞️ **Seeking Collaboration:** Exciting projects in Web Development
-- 📫 **Contact Me:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
+- 💬 Ask me about **React, Solidity and Cpp**
 
----
+- 📫 How to reach me **bhagatalisha1@gmail.com**
 
-## 🛠️ Technologies & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bhagatalisha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhagatalisha1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alisha-0ba8ab278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisha-0ba8ab278" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alisha_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisha_here" height="30" width="40" /></a>
+</p>
 
-![React](https://simpleicons.org/icons/react.svg)
-![Node.js](https://simpleicons.org/icons/node-dot-js.svg)
-![MongoDB](https://simpleicons.org/icons/mongodb.svg)
-![Express.js](https://simpleicons.org/icons/express.svg)
-![HTML5](https://simpleicons.org/icons/html5.svg)
-![CSS3](https://simpleicons.org/icons/css3.svg)
-![JavaScript](https://simpleicons.org/icons/javascript.svg)
-![Solidity](https://simpleicons.org/icons/solidity.svg)
-![Hardhat](https://simpleicons.org/icons/hardhat.svg)
-![MySQL](https://simpleicons.org/icons/mysql.svg)
-![R](https://simpleicons.org/icons/r.svg)
-![C++](https://simpleicons.org/icons/cplusplus.svg)
-![Python](https://simpleicons.org/icons/python.svg)
-![Java](https://simpleicons.org/icons/java.svg)
-![C](https://simpleicons.org/icons/c.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAlisha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-0ba8ab278/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/bhagatalisha1)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/itsAlisha)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
