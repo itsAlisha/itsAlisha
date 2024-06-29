@@ -15,8 +15,8 @@
 <br>
 <h3 align="center"> 📊 GitHub Stats : </h3>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true" alt="itsalisha" /> </p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true" alt="itsalisha" /> </p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
 <br>
 <h3 align="center"> 👩‍💻Languages and Tools :</h3>
 <br>
