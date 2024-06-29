@@ -2,12 +2,12 @@
 
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-blue)
 
-I'm a passionate programmer with a keen interest in Machine Learning (ML) and Blockchain Technologies. Currently, I'm focused on learning MERN Stack development and enhancing my skills in Data Structures.
+I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
 
-- 👀 **I’m interested in:** ML and Blockchain Technologies
-- 🌱 **I’m currently learning:** MERN Stack development and Data Structures
-- 💞️ **I’m looking to collaborate on:** Web development projects
-- 📫 **Reach me at:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
+👀 My Interests: Machine Learning (ML) and Blockchain Technologies
+🌱 Current Learning Path: MERN Stack development and advanced Data Structures
+💞️ Seeking Collaboration: Exciting projects in Web Development
+📫 Contact Me: bhagatalisha1@gmail.com
 
 ## 🛠️ Technologies & Tools
 
