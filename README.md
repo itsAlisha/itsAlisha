@@ -14,9 +14,10 @@
         <h3 align="center"> 📊 GitHub Stats :</h3>
 </div>
 <br>
-<br>        
+   
 ![itsAlisha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![itsAlisha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true)
+
 <br>
 <h3 align="center"> 👩‍💻Languages and Tools :</h3>
 <br>
