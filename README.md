@@ -2,13 +2,18 @@
 
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-blue)
 
-I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies.                     ![Hello GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif) 
-My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
+![Hello GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+
+I'm an enthusiastic and dedicated programmer with a strong passion for Machine Learning (ML) and Blockchain Technologies. My current focus is on mastering the MERN Stack and deepening my understanding of Data Structures.
+
+![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 - 👀 **My Interests:** Machine Learning (ML) and Blockchain Technologies
 - 🌱 **Current Learning Path:** MERN Stack development and advanced Data Structures
 - 💞️ **Seeking Collaboration:** Exciting projects in Web Development
 - 📫 **Contact Me:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -28,9 +33,14 @@ My current focus is on mastering the MERN Stack and deepening my understanding o
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
+---
+
 ## 📈 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAlisha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&layout=compact&theme=radical)
+
+---
 
 ## 🔗 Connect with me
 
