@@ -29,8 +29,8 @@ I'm a passionate programmer with a keen interest in Machine Learning (ML) and Bl
 
 ## 📈 GitHub Stats
 
-![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisha&layout=compact&theme=radical)
+![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAlisha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlisha&layout=compact&theme=radical)
 
 ## 🔗 Connect with me
 
