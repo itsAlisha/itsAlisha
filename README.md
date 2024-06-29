@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Alisha, a Programmer
-- 👀 I’m interested in ML and Blockchain Technologies
-- 🌱 I’m currently learning MERN Stack development and enhancing my skills in Data Structures
-- 💞️ I’m looking to collaborate on a project related to Web development
-- 📫 mail me at : bhagatalisha1@gmail.com
+# Hi there, I'm Alisha! 👋
 
-<!---
-itsAlisha/itsAlisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-blue)
+
+I'm a passionate programmer with a keen interest in Machine Learning (ML) and Blockchain Technologies. Currently, I'm focused on learning MERN Stack development and enhancing my skills in Data Structures.
+
+- 👀 **I’m interested in:** ML and Blockchain Technologies
+- 🌱 **I’m currently learning:** MERN Stack development and Data Structures
+- 💞️ **I’m looking to collaborate on:** Web development projects
+- 📫 **Reach me at:** [bhagatalisha1@gmail.com](mailto:bhagatalisha1@gmail.com)
+
+## 🛠️ Technologies & Tools
+
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F4A460?logo=hardhat&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha&layout=compact&theme=radical)
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-0ba8ab278/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/bhagatalisha1)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/itsAlisha)
