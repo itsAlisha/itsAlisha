@@ -5,7 +5,7 @@
 ![Coding GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <br>
 <div align="center">
-  <ul type="disc">
+  <ul type="disc" align="center">
     <li><h3>🌱 I’m currently learning <strong>Machine Learning and Exploring Blockchain </h3></li>
     <li><h3>👯 I’m looking to collaborate on <strong>Web Development Projects</h3></li>
     <li><h3>👩‍💻 All of my projects are available at <a href="https://itsalisha.github.io/Portfolio/" target="_blank">https://itsalisha.github.io/Portfolio/</a></h3></li>
