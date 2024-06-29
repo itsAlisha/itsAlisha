@@ -14,15 +14,9 @@
 </div>
 <br>
 <h3 align="center"> 📊 GitHub Stats : </h3>
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-    </div>
-    <div style="flex: 1;">
-        <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-    </div>
-</div>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAlisha&theme=default&hide_border=true" alt="itsalisha" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalisha&show_icons=true&locale=en&layout=compact" alt="itsalisha" /></p>
 <br>
 <h3 align="center"> 👩‍💻Languages and Tools :</h3>
 <br>
